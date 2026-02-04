@@ -20,3 +20,8 @@ npm test
 
 npm run dev
 
+## API
+
+## Postman example
+
+GET /hex-to-rgb?hex=ff00aa
